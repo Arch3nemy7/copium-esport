@@ -1,0 +1,110 @@
+{
+    "tesseract_path": "C:/Program Files/Tesseract-OCR/tesseract.exe",
+    "corrections": {
+        "kKIssS": "KISS",
+        "PrinsipyangdikembangkanolehRobertCMartinagarmembuatprogramlebihmudahdimengertidandikelolaadalah" : "PepekGaming",
+        "KentBeckmerupakantokohAgileyangmempopulerkanframework": "XP"
+    },
+    "question_regions": [
+        [148, 394, 397, 152],
+        [578, 395, 399, 164],
+        [1006, 392, 396, 156],
+        [1438, 396, 393, 156]
+    ],
+    "answer_regions": [
+        [
+            [167, 584, 363, 52],
+            [170, 668, 354, 57],
+            [169, 750, 362, 66],
+            [169, 847, 358, 57]
+        ],
+        [
+            [596, 571, 364, 69],
+            [593, 656, 367, 74],
+            [594, 748, 365, 71],
+            [593, 839, 367, 68]
+        ],
+        [
+            [1022, 567, 369, 75],
+            [1021, 656, 370, 75],
+            [1022, 749, 368, 73],
+            [1022, 837, 367, 74]
+        ],
+        [
+            [1451, 570, 366, 68],
+            [1452, 657, 365, 74],
+            [1451, 749, 364, 67],
+            [1452, 839, 365, 71]
+        ]
+    ],
+    "answer_coords": [
+        [[177, 608], [177, 696], [177, 789], [177, 869]],
+        [[610, 608], [610, 692], [610, 783], [610, 879]],
+        [[1038, 608], [1038, 690], [1038, 792], [1038, 867]],
+        [[1465, 603], [1465, 690], [1465, 785], [1465, 876]]
+    ],
+    "ocr_config": {
+        "question": "--psm 6 --oem 1",
+        "text_answer": "--psm 6 --oem 1 -c tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+        "number_answer": "--psm 10 --oem 1 -c tessedit_char_whitelist=0123456789"
+    },
+    "initial_clicks": [[1323, 723], [959, 722], [693, 708]],
+    "next_chapter_click": [998, 977],
+    "final_clicks": [[1123, 151], [777, 681], [994, 955]],
+    "timing": {
+        "initial_wait": 2,
+        "chapter_wait": 8.25,
+        "next_chapter_wait": 0.25,
+        "final_wait": 21,
+        "final_click_wait": 1,
+        "error_wait": 10,
+        "cautious_wait": 0.25,
+        "cautious_wait_long": 0.5
+    },
+    "qa_pairs": {
+        "EricRiesmerupakantokohAgileyangmempopulerkanframework": "LeanStartup",
+        "JumlahdeveloperpadaPairProgrammingadalah": "2",
+        "SprintPlanningmerupakanpracticeyangdipopulerkanmelaluiframework": "Scrum",
+        "XP": "XP",
+        "TaiichiOhnomerupakantokohAgileyangmempopulerkanframework": "Kanban",
+        "DurasimaksimumsatuEpisodepadaLeanStartupdalamsatuanbulanadalah": "3",
+        "DurasisatuCyclepadaXPdalamsatuanmingguadalah": "1",
+        "DurasimaksimumsatuSprintpadaScrumdalamsatuanmingguadalah": "4",
+        "WorkingSoftwareoverComprehensiveDocumentationmerupakanpernyataanAgileManifestoyangke": "2",
+        "WorkingSoftwareoverComprehensiveDocumentationmerupakanpernyataanAgileManifestoanake": "2",
+        "JeffSutherlandmerupakantokohAgileyangmempopulerkanframework": "Scrum",
+        "3MWasteMudaMuraMurimerupakanpracticeyangdipopulerkanmelaluiframework": "Kanban",
+        "RespondingtoChangeoverFollowingaPlanmerupakanpernyataanAgileManifestoyangke": "4",
+        "CollectiveOwnershipmerupakanpracticeyangdipopulerkanmelaluiframework": "XP",
+        "MVPmerupakanpracticeyangdipopulerkanmelaluiframework": "LeanStartup",
+        "CustomerCollaborationoverContractNegotiationmerupakanpernyataanAgileManifestoyangke": "3",
+        "IndividualsandInteractionsoverProcessesandToolsmerupakanpernyataanAgileManifestoyangke": "1",
+        "DesainUIUXyangbaruberupacoretankasarumumnyadisebut": "Sketch",
+        "DesainUIUXyangmenggambarkansecaralengkapelemenelemenUItanpawarnadisebut": "Wireframe",
+        "DesainUIUXyangmenggambarkansecaralengkapelemeneliemenUItanpawarnadisebut": "Wireframe",
+        "DesainUIUXyangmenggambarkanelemenelemenUIlengkapdenganalurnavigasinyadisebut": "Wireflow",
+        "DesainUIUXyangmenggambarkanelemenelemenUlengkapdenganalurnavigasinyadisebut": "Wireflow",
+        "DesainUIUXyangmenggambarkanelemenelemenUIlengkapdenganwarnanyadisebut": "Mockup",
+        "DesainUIUXyangmenggambarkanelemenelemenUlengkapdenganwarnanyadisebut" : "Mockup",
+        "Userlebihnyamandenganantarmukayangfamiliarmerupakanstatemendari": "JakobsLaw",
+        "Objekyangtampakberbedaakanlebihmenarikperhatianmerupakanstatemendari": "VonRestorffeffect",
+        "Pilihanyangsemakinbanyakakanmemperlambatresponusermerupakanstatemendari": "HicksLaw",
+        "Manusiahanyamampumengingat72itemdalamtiapkategorimerupakanstatemendari": "MillersLaw",
+        "Attributyangmelekatpadasebuahclassdisebut": "Field",
+        "BeberapajenisCommentsmerupakanCodeSmellyangmelanggarprinsip": "YAGNI",
+        "DataClumpsmerupakanCodeSmellyangterjadipadaelemen": "Field",
+        "Classyangmemilikibehavioryangditurunkanpadaclasslainnyadisebut": "SuperClass",
+        "Classyangmenurunibehaviordariclasslainnyadisebut": "Subclass",
+        "Prinsipyangmenekankanbahwasebisamungkintidakbolehadakodeyangberduplikasiadalah": "DRY",
+        "Prinsipyangmenekankanbahwaelemenelemenkodeyangtidakpentingsebaiknyadibuangadalah": "YAGNI",
+        "Prinsipyangmenekankanagarprogrammermembuatkodesesimpelmungkinadalah": "KISS",
+        "LongMethodmerupakanCodeSmellyangmelanggarprinsip": "KISS",
+        "LongParameterListmerupakanCodeSmellyangterjadipadaelemen": "Method",
+        "SpeculativeGeneralitymerupakanCodeSmellyangterjadipadaelemen": "Superclass",
+        "Behavioryangmelekatpadasebuahclassdisebut": "Method",
+        "LargeClassmerupakanCodeSmellyangmelanggarprinsip": "SOLID",
+        "PepekGaming" : "SOLID",
+        "ShotgunSurgerymerupakanCodeSmellyangmelanggarprinsip": "DRY",
+        "RefusedBequestmerupakanCodeSmellyangterjadipadaelemen": "Subclass"
+    }
+}

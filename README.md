@@ -24,7 +24,8 @@ This project contains automation scripts designed to interact with a web-based q
    ```
 3. Install Tesseract OCR and specify its location in the config file.
    
-### Usage
+## Usage
+
 There are two main scripts:
 
 1. `copium.py`: Basic version for single-run automation
@@ -37,11 +38,13 @@ python copium.py
 
 To run the extended version:
 ```sh
-python copium_extra.py
+python copium_hard.py
 ```
 
-### Disclaimer
+## Disclaimer
+
 This script is intended for educational purposes only. Use it responsibly and in compliance with the terms of service of the target application.
 
-### Contributing
+## Contributing
+
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
